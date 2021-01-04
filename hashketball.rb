@@ -11,3 +11,4 @@ def game_hash
     :players =>[:player_name, :number, :shoe, :points, :rebounds, :assists, :steals, :blocks, :slam_dunks]
   }
 }
+end
