@@ -12,3 +12,4 @@ def game_hash
   }
 }
 end
+return game_hash
